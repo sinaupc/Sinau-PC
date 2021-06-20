@@ -1,0 +1,39 @@
+{
+  "name": "Sinau PC",
+  "short_name": "Sinau PC",
+  "scope": "https://www.sinaupc.com/",
+  "start_url": "https://www.sinaupc.com/",
+  "display": "standalone",
+  "background_color": "#fff",
+  "theme_color": "#ffffff",
+  "description": "Sharing, Learning, and Review PC",
+  "icons": [{
+    "src": "https://1.bp.blogspot.com/-rrLr3IWbLNg/YM70DpQ2yPI/5oH94DxR3V8WvNjOzNBuSTZoyj2YIXcpQCLcBGAsYHQ/s48/Favicon.png",
+    "sizes": "48x48",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-rrLr3IWbLNg/YM70DpQ2yPI/5oH94DxR3V8WvNjOzNBuSTZoyj2YIXcpQCLcBGAsYHQ/s72/Favicon.png",
+    "sizes": "72x72",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-rrLr3IWbLNg/YM70DpQ2yPI/5oH94DxR3V8WvNjOzNBuSTZoyj2YIXcpQCLcBGAsYHQ/s96/Favicon.png",
+    "sizes": "96x96",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-rrLr3IWbLNg/YM70DpQ2yPI/5oH94DxR3V8WvNjOzNBuSTZoyj2YIXcpQCLcBGAsYHQ/s144/Favicon.png",
+    "sizes": "144x144",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-rrLr3IWbLNg/YM70DpQ2yPI/5oH94DxR3V8WvNjOzNBuSTZoyj2YIXcpQCLcBGAsYHQ/s168/Favicon.png",
+    "sizes": "168x168",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-rrLr3IWbLNg/YM70DpQ2yPI/5oH94DxR3V8WvNjOzNBuSTZoyj2YIXcpQCLcBGAsYHQ/s192/Favicon.png",
+    "sizes": "192x192",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-rrLr3IWbLNg/YM70DpQ2yPI/5oH94DxR3V8WvNjOzNBuSTZoyj2YIXcpQCLcBGAsYHQ/s512/Favicon.png",
+    "sizes": "512x512",
+    "type": "image/png"
+  }]
+}
